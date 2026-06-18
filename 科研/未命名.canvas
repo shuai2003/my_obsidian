@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"43323998da6af8b8","type":"text","text":"GMS摩擦模型","x":-400,"y":-40,"width":200,"height":50},
+		{"id":"5b7b2d0756aa8ed1","type":"text","text":"预滑动阶段","x":-100,"y":-90,"width":250,"height":50},
+		{"id":"31e504619f60da88","type":"text","text":"滑动阶段","x":-100,"y":10,"width":250,"height":60},
+		{"id":"e51856ab020ee071","x":240,"y":-105,"width":250,"height":80,"type":"text","text":"对应动态参数辨识(粘滞曲线辨识)"},
+		{"id":"dd7822feeedee13c","type":"text","text":"静态参数辨识(stribeck曲线辨识)","x":240,"y":-5,"width":250,"height":90}
+	],
+	"edges":[
+		{"id":"6683c851e57e359c","fromNode":"5b7b2d0756aa8ed1","fromSide":"right","toNode":"e51856ab020ee071","toSide":"left"},
+		{"id":"29fb4f6e77fe27b2","fromNode":"31e504619f60da88","fromSide":"right","toNode":"dd7822feeedee13c","toSide":"left"},
+		{"id":"8024342eb46abeab","fromNode":"43323998da6af8b8","fromSide":"right","toNode":"5b7b2d0756aa8ed1","toSide":"left"},
+		{"id":"19dc8f908ee7619f","fromNode":"43323998da6af8b8","fromSide":"right","toNode":"31e504619f60da88","toSide":"left"}
+	]
+}
