@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "用ai学习英语",
-      "path": "01-临时笔记/英语学习/用ai学习英语.md"
+      "basename": "c语言",
+      "path": "03-学习笔记/MUC开发/c语言.md"
     },
     {
       "basename": "01 文献查找关键字",
       "path": "02-文献笔记/01 文献查找关键字.md"
+    },
+    {
+      "basename": "用ai学习英语",
+      "path": "01-临时笔记/英语学习/用ai学习英语.md"
     },
     {
       "basename": "论文本人简介",
@@ -31,10 +35,6 @@
     {
       "basename": "控制方法",
       "path": "03-学习笔记/控制/控制方法.md"
-    },
-    {
-      "basename": "c语言",
-      "path": "03-学习笔记/MUC开发/c语言.md"
     },
     {
       "basename": "系统模型辨识",
