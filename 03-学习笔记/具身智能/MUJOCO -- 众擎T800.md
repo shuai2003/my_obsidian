@@ -1,7 +1,7 @@
 # 1. 机器人信息和mujoco
 ## 1.1对机器人进行二次开发
 编译工具：Trae
-工程目录：
+工程目录：E:\code\Trae\T800_Robot\code
 ![[Pasted image 20260714205901.png|523]]![[Pasted image 20260714210140.png|545]]![[Pasted image 20260714210708.png|546]]
 **通过写代码控制机器人搬运物块**
 ## 1.2 mujoco物理引擎 物理仿真软件
@@ -21,3 +21,8 @@
 ![[Pasted image 20260714212139.png]]
 ![[Pasted image 20260714212027.png]]
 ![[Pasted image 20260714212048.png|697]]
+# 2.2 使用ai coding编写代码 ？？？
+## 2.3 xml文件 虚拟世界的创世蓝图
+用人类可以理解的语言 去告诉mujoco的仿真平台
+
+ 
