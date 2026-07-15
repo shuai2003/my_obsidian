@@ -6,9 +6,8 @@
         "conversationId": "conv-1778983018053-8l8zrp3c6"
       },
       {
-        "draftModel": "haiku",
         "tabId": "tab-1778982996058-rry03ap",
-        "conversationId": null
+        "conversationId": "conv-1784079951618-01bw3xrhq"
       },
       {
         "draftModel": "haiku",
@@ -16,6 +15,6 @@
         "conversationId": null
       }
     ],
-    "activeTabId": "tab-1778982987962-xkqxyl5"
+    "activeTabId": "tab-1778982996058-rry03ap"
   }
 }

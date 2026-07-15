@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784079951618-01bw3xrhq",
+  "providerId": "claude",
+  "title": "Explain Obsidian plugin token refresh",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784079951618,
+  "updatedAt": 1784107880563,
+  "lastResponseAt": 1784107880563,
+  "sessionId": "51d87384-b6aa-49dc-9a70-397a18db048f",
+  "providerState": {
+    "providerSessionId": "51d87384-b6aa-49dc-9a70-397a18db048f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 666,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25600,
+    "contextWindow": 200000,
+    "contextTokens": 26266,
+    "percentage": 13,
+    "contextWindowIsAuthoritative": true
+  }
+}
